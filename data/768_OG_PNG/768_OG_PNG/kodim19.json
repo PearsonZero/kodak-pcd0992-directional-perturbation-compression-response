@@ -1,0 +1,28 @@
+{
+  "source_file": "kodim19.png",
+  "format": "PNG",
+  "resolution": "512x768",
+  "pixels": 393216,
+  "file_size_bytes": 671476,
+  "bpp": 13.661,
+  "correlations": {
+    "R_G": 0.96683,
+    "R_B": 0.815462,
+    "G_B": 0.915071,
+    "avg_abs_r": 0.8991
+  },
+  "PC1_pct": 93.36,
+  "PC2_pct": 6.27,
+  "PC3_pct": 0.36,
+  "eigenvalues": {
+    "PC1": 6370.5766,
+    "PC2": 428.1205,
+    "PC3": 24.6615
+  },
+  "condition_number": 258.32,
+  "theta2": 33.51,
+  "theta3": 31.45,
+  "loo_dev": 0.18,
+  "spatial_autocorrelation_avg": 0.936997,
+  "sha256": "b7450b264b1b0a411390d8931b112c27905a992520fc90569dc4b920aa32bbdc"
+}

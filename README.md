@@ -41,9 +41,9 @@ The geometric displacement persists through repeated lossy encoding, retaining 8
 ## File Structure
 
 ```
-/
+
 ├── README.md
-├── paper4_manuscript_final.pdf
+├── directional-perturbation-manuscript.pdf
 ├── profiles/
 │   └── kodim01–kodim24_compression_profile.pdf (24 files, 3 pages each)
 ├── data/

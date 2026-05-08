@@ -1,0 +1,28 @@
+{
+  "source_file": "KODIM20_OG_PNG_Q75_FB2.jpg",
+  "format": "JPEG",
+  "resolution": "768x512",
+  "pixels": 393216,
+  "file_size_bytes": 54674,
+  "bpp": 1.112,
+  "correlations": {
+    "R_G": 0.995539,
+    "R_B": 0.958764,
+    "G_B": 0.97661,
+    "avg_abs_r": 0.977
+  },
+  "PC1_pct": 98.44,
+  "PC2_pct": 1.51,
+  "PC3_pct": 0.06,
+  "eigenvalues": {
+    "PC1": 22977.3156,
+    "PC2": 351.8425,
+    "PC3": 13.3414
+  },
+  "condition_number": 1722.26,
+  "theta2": 24.63,
+  "theta3": 22.69,
+  "loo_dev": 0.33,
+  "spatial_autocorrelation_avg": 0.989336,
+  "sha256": "308f56be4f7b36b757786c135021de6b9558805224702c79d326628371d96d4a"
+}

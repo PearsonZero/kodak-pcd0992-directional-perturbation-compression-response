@@ -1,0 +1,28 @@
+{
+  "source_file": "kodim23_GRN_SPDR_J.jpg",
+  "format": "JPEG",
+  "resolution": "2560x1707",
+  "pixels": 4369920,
+  "file_size_bytes": 2387613,
+  "bpp": 4.371,
+  "correlations": {
+    "R_G": 0.070329,
+    "R_B": 0.909133,
+    "G_B": 0.165023,
+    "avg_abs_r": 0.3815
+  },
+  "PC1_pct": 65.95,
+  "PC2_pct": 32.56,
+  "PC3_pct": 1.49,
+  "eigenvalues": {
+    "PC1": 2114.3183,
+    "PC2": 1043.9854,
+    "PC3": 47.8105
+  },
+  "condition_number": 44.22,
+  "theta2": 66.09,
+  "theta3": 55.09,
+  "loo_dev": -8.89,
+  "spatial_autocorrelation_avg": 0.993066,
+  "sha256": "33abff36cabac452b4609c95a7c38c3dc4018ff18d7f325353baa8e8886ed5a8"
+}

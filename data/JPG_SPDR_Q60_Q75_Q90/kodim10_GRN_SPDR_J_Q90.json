@@ -1,0 +1,28 @@
+{
+  "source_file": "kodim10_GRN_SPDR_J_Q90.jpg",
+  "format": "JPEG",
+  "resolution": "1707x2560",
+  "pixels": 4369920,
+  "file_size_bytes": 723579,
+  "bpp": 1.325,
+  "correlations": {
+    "R_G": 0.117571,
+    "R_B": 0.925979,
+    "G_B": 0.114672,
+    "avg_abs_r": 0.3861
+  },
+  "PC1_pct": 80.87,
+  "PC2_pct": 18.41,
+  "PC3_pct": 0.72,
+  "eigenvalues": {
+    "PC1": 1886.8433,
+    "PC2": 429.4066,
+    "PC3": 16.8025
+  },
+  "condition_number": 112.3,
+  "theta2": 65.97,
+  "theta3": 51.58,
+  "loo_dev": -12.28,
+  "spatial_autocorrelation_avg": 0.973685,
+  "sha256": "e7a423b6f69a5c7cb2634419b2a476a6366d84b69b94ed36da5524b781118be6"
+}

@@ -1,0 +1,28 @@
+{
+  "source_file": "KODIM21_OG_PNG_Q60_FB2.jpg",
+  "format": "JPEG",
+  "resolution": "768x512",
+  "pixels": 393216,
+  "file_size_bytes": 57200,
+  "bpp": 1.164,
+  "correlations": {
+    "R_G": 0.894775,
+    "R_B": 0.665098,
+    "G_B": 0.915111,
+    "avg_abs_r": 0.825
+  },
+  "PC1_pct": 88.68,
+  "PC2_pct": 11.0,
+  "PC3_pct": 0.33,
+  "eigenvalues": {
+    "PC1": 5329.2086,
+    "PC2": 660.7539,
+    "PC3": 19.6102
+  },
+  "condition_number": 271.76,
+  "theta2": 39.87,
+  "theta3": 37.99,
+  "loo_dev": 0.33,
+  "spatial_autocorrelation_avg": 0.934048,
+  "sha256": "39c01e5324b546ab10306bef15364da009371293681021b2a8e66111d6057a55"
+}

@@ -1,0 +1,28 @@
+{
+  "source_file": "kodim12_RED_SPDR_J_Q90.jpg",
+  "format": "JPEG",
+  "resolution": "2560x1707",
+  "pixels": 4369920,
+  "file_size_bytes": 664901,
+  "bpp": 1.217,
+  "correlations": {
+    "R_G": 0.128534,
+    "R_B": 0.059843,
+    "G_B": 0.95349,
+    "avg_abs_r": 0.3806
+  },
+  "PC1_pct": 77.74,
+  "PC2_pct": 20.54,
+  "PC3_pct": 1.71,
+  "eigenvalues": {
+    "PC1": 3919.0706,
+    "PC2": 1035.651,
+    "PC3": 86.3834
+  },
+  "condition_number": 45.37,
+  "theta2": 69.23,
+  "theta3": 62.99,
+  "loo_dev": -4.14,
+  "spatial_autocorrelation_avg": 0.995319,
+  "sha256": "b278ba0e404d820a88bada265151c91408f22d8061254654141db243125f17c6"
+}

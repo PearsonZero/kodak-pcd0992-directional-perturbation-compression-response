@@ -1,0 +1,28 @@
+{
+  "source_file": "KODIM10_RED_SPDR_Q90_FB2.jpg",
+  "format": "JPEG",
+  "resolution": "1366x2048",
+  "pixels": 2797568,
+  "file_size_bytes": 406091,
+  "bpp": 1.161,
+  "correlations": {
+    "R_G": 0.217366,
+    "R_B": 0.229642,
+    "G_B": 0.968964,
+    "avg_abs_r": 0.472
+  },
+  "PC1_pct": 82.75,
+  "PC2_pct": 15.99,
+  "PC3_pct": 1.26,
+  "eigenvalues": {
+    "PC1": 2970.9367,
+    "PC2": 573.9842,
+    "PC3": 45.3944
+  },
+  "condition_number": 65.45,
+  "theta2": 74.33,
+  "theta3": 71.58,
+  "loo_dev": -0.68,
+  "spatial_autocorrelation_avg": 0.990906,
+  "sha256": "4df2f867002a7417fc6393a4b1356b216b2dfffd0318f3256ced8ddfa4f50bad"
+}

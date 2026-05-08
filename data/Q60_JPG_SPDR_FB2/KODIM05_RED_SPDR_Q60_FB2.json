@@ -1,0 +1,28 @@
+{
+  "source_file": "KODIM05_RED_SPDR_Q60_FB2.jpg",
+  "format": "JPEG",
+  "resolution": "2048x1366",
+  "pixels": 2797568,
+  "file_size_bytes": 724393,
+  "bpp": 2.071,
+  "correlations": {
+    "R_G": 0.216927,
+    "R_B": 0.085489,
+    "G_B": 0.967675,
+    "avg_abs_r": 0.4234
+  },
+  "PC1_pct": 86.09,
+  "PC2_pct": 12.94,
+  "PC3_pct": 0.97,
+  "eigenvalues": {
+    "PC1": 4510.0105,
+    "PC2": 678.1868,
+    "PC3": 50.8072
+  },
+  "condition_number": 88.77,
+  "theta2": 62.96,
+  "theta3": 57.35,
+  "loo_dev": -3.49,
+  "spatial_autocorrelation_avg": 0.978532,
+  "sha256": "d1148f0c988b255283af2499eed4dcd7e45bf7a3e6eec4cba42c065f262a7169"
+}

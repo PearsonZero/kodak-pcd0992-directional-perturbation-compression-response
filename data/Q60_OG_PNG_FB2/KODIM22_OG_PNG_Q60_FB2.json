@@ -1,0 +1,28 @@
+{
+  "source_file": "KODIM22_OG_PNG_Q60_FB2.jpg",
+  "format": "JPEG",
+  "resolution": "768x512",
+  "pixels": 393216,
+  "file_size_bytes": 61493,
+  "bpp": 1.251,
+  "correlations": {
+    "R_G": 0.872321,
+    "R_B": 0.802303,
+    "G_B": 0.875099,
+    "avg_abs_r": 0.8499
+  },
+  "PC1_pct": 89.84,
+  "PC2_pct": 7.02,
+  "PC3_pct": 3.14,
+  "eigenvalues": {
+    "PC1": 5190.7905,
+    "PC2": 405.5807,
+    "PC3": 181.6617
+  },
+  "condition_number": 28.57,
+  "theta2": 39.23,
+  "theta3": 37.28,
+  "loo_dev": 0.27,
+  "spatial_autocorrelation_avg": 0.958769,
+  "sha256": "5529c8f55133719969bcb3877a346d2f46606206f7c481bd8dd0d147e9f1cb60"
+}

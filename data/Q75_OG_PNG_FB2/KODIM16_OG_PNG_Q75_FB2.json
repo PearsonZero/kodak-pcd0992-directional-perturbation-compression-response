@@ -1,0 +1,28 @@
+{
+  "source_file": "KODIM16_OG_PNG_Q75_FB2.jpg",
+  "format": "JPEG",
+  "resolution": "768x512",
+  "pixels": 393216,
+  "file_size_bytes": 65397,
+  "bpp": 1.331,
+  "correlations": {
+    "R_G": 0.984272,
+    "R_B": 0.889803,
+    "G_B": 0.949618,
+    "avg_abs_r": 0.9412
+  },
+  "PC1_pct": 96.32,
+  "PC2_pct": 3.57,
+  "PC3_pct": 0.11,
+  "eigenvalues": {
+    "PC1": 5235.1441,
+    "PC2": 193.9229,
+    "PC3": 6.0813
+  },
+  "condition_number": 860.85,
+  "theta2": 31.55,
+  "theta3": 29.47,
+  "loo_dev": 0.17,
+  "spatial_autocorrelation_avg": 0.96304,
+  "sha256": "19e506f2b60c04c4e5e9eaa44f86b24bb8dd8c06bdef4cd9f50522a71c3b177c"
+}

@@ -1,0 +1,28 @@
+{
+  "source_file": "kodim10_Q60.jpg",
+  "format": "JPEG",
+  "resolution": "512x768",
+  "pixels": 393216,
+  "file_size_bytes": 46424,
+  "bpp": 0.944,
+  "correlations": {
+    "R_G": 0.955086,
+    "R_B": 0.888798,
+    "G_B": 0.968382,
+    "avg_abs_r": 0.9374
+  },
+  "PC1_pct": 96.05,
+  "PC2_pct": 3.51,
+  "PC3_pct": 0.44,
+  "eigenvalues": {
+    "PC1": 4271.0846,
+    "PC2": 155.9046,
+    "PC3": 19.5381
+  },
+  "condition_number": 218.6,
+  "theta2": 49.67,
+  "theta3": 47.55,
+  "loo_dev": 0.05,
+  "spatial_autocorrelation_avg": 0.956077,
+  "sha256": "c81810bf5ecb02a015dc095ff007cf92b9377708a1c7e806e1cf41291df55bb4"
+}

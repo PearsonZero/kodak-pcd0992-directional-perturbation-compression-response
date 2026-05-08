@@ -1,0 +1,28 @@
+{
+  "source_file": "kodim13_RED_SPDR_J_Q75.jpg",
+  "format": "JPEG",
+  "resolution": "2560x1707",
+  "pixels": 4369920,
+  "file_size_bytes": 932084,
+  "bpp": 1.706,
+  "correlations": {
+    "R_G": 0.222045,
+    "R_B": 0.240747,
+    "G_B": 0.932437,
+    "avg_abs_r": 0.4651
+  },
+  "PC1_pct": 88.09,
+  "PC2_pct": 8.87,
+  "PC3_pct": 3.04,
+  "eigenvalues": {
+    "PC1": 5024.7283,
+    "PC2": 506.0723,
+    "PC3": 173.4168
+  },
+  "condition_number": 28.97,
+  "theta2": 75.72,
+  "theta3": 70.05,
+  "loo_dev": -3.6,
+  "spatial_autocorrelation_avg": 0.970655,
+  "sha256": "7165b3940ac8b20123178da991bf293bd2305c4688c8ffa4ad2b5bb9d2062346"
+}

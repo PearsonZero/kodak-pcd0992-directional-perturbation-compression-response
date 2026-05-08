@@ -1,0 +1,28 @@
+{
+  "source_file": "kodim16_GRN_SPDR_J_Q75.jpg",
+  "format": "JPEG",
+  "resolution": "2560x1707",
+  "pixels": 4369920,
+  "file_size_bytes": 539708,
+  "bpp": 0.988,
+  "correlations": {
+    "R_G": 0.106852,
+    "R_B": 0.947235,
+    "G_B": 0.070734,
+    "avg_abs_r": 0.3749
+  },
+  "PC1_pct": 78.56,
+  "PC2_pct": 19.35,
+  "PC3_pct": 2.09,
+  "eigenvalues": {
+    "PC1": 7982.7514,
+    "PC2": 1965.9571,
+    "PC3": 212.6137
+  },
+  "condition_number": 37.55,
+  "theta2": 54.31,
+  "theta3": 49.75,
+  "loo_dev": -2.41,
+  "spatial_autocorrelation_avg": 0.997249,
+  "sha256": "ba0c36144319c0bfb32030237a51cd48b2c73b8b03f2453981fe439c4061b8aa"
+}

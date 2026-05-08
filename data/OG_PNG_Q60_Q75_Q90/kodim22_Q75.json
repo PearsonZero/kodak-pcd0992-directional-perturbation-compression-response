@@ -1,0 +1,28 @@
+{
+  "source_file": "kodim22_Q75.jpg",
+  "format": "JPEG",
+  "resolution": "768x512",
+  "pixels": 393216,
+  "file_size_bytes": 82443,
+  "bpp": 1.677,
+  "correlations": {
+    "R_G": 0.872958,
+    "R_B": 0.802772,
+    "G_B": 0.874904,
+    "avg_abs_r": 0.8502
+  },
+  "PC1_pct": 89.86,
+  "PC2_pct": 7.0,
+  "PC3_pct": 3.14,
+  "eigenvalues": {
+    "PC1": 5205.5519,
+    "PC2": 405.7415,
+    "PC3": 181.9533
+  },
+  "condition_number": 28.61,
+  "theta2": 39.09,
+  "theta3": 37.14,
+  "loo_dev": 0.27,
+  "spatial_autocorrelation_avg": 0.95604,
+  "sha256": "8d938529246c7e9dd9c55dbcf923b9c0db21f0bf48790f3884fe71d2f4e9003b"
+}

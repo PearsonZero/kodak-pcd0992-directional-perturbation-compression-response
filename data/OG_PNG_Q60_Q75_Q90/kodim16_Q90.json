@@ -1,0 +1,28 @@
+{
+  "source_file": "kodim16_Q90.jpg",
+  "format": "JPEG",
+  "resolution": "768x512",
+  "pixels": 393216,
+  "file_size_bytes": 114128,
+  "bpp": 2.322,
+  "correlations": {
+    "R_G": 0.984259,
+    "R_B": 0.891242,
+    "G_B": 0.950498,
+    "avg_abs_r": 0.942
+  },
+  "PC1_pct": 96.37,
+  "PC2_pct": 3.52,
+  "PC3_pct": 0.11,
+  "eigenvalues": {
+    "PC1": 5247.7521,
+    "PC2": 191.7112,
+    "PC3": 6.1859
+  },
+  "condition_number": 848.34,
+  "theta2": 31.7,
+  "theta3": 29.62,
+  "loo_dev": 0.17,
+  "spatial_autocorrelation_avg": 0.961515,
+  "sha256": "e87bfafd05945fa2846d5e0d619d191269281d0bd0cf5557836875bdc6bdc8e2"
+}

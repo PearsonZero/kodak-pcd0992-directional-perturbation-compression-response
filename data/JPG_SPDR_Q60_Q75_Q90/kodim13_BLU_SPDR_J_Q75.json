@@ -1,0 +1,28 @@
+{
+  "source_file": "kodim13_BLU_SPDR_J_Q75.jpg",
+  "format": "JPEG",
+  "resolution": "2560x1707",
+  "pixels": 4369920,
+  "file_size_bytes": 486070,
+  "bpp": 0.89,
+  "correlations": {
+    "R_G": 0.956249,
+    "R_B": 0.045392,
+    "G_B": 0.03569,
+    "avg_abs_r": 0.3458
+  },
+  "PC1_pct": 87.85,
+  "PC2_pct": 10.2,
+  "PC3_pct": 1.95,
+  "eigenvalues": {
+    "PC1": 3678.2602,
+    "PC2": 426.9468,
+    "PC3": 81.5884
+  },
+  "condition_number": 45.08,
+  "theta2": 35.49,
+  "theta3": 6.59,
+  "loo_dev": -26.67,
+  "spatial_autocorrelation_avg": 0.964446,
+  "sha256": "a0546698d779c9dab9a7c2c9b90b3cda36c7f16bb4787e106e082d63295fc444"
+}

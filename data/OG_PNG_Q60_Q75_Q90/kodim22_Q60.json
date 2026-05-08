@@ -1,0 +1,28 @@
+{
+  "source_file": "kodim22_Q60.jpg",
+  "format": "JPEG",
+  "resolution": "768x512",
+  "pixels": 393216,
+  "file_size_bytes": 61019,
+  "bpp": 1.241,
+  "correlations": {
+    "R_G": 0.872321,
+    "R_B": 0.802303,
+    "G_B": 0.875099,
+    "avg_abs_r": 0.8499
+  },
+  "PC1_pct": 89.84,
+  "PC2_pct": 7.02,
+  "PC3_pct": 3.14,
+  "eigenvalues": {
+    "PC1": 5190.7905,
+    "PC2": 405.5807,
+    "PC3": 181.6617
+  },
+  "condition_number": 28.57,
+  "theta2": 39.23,
+  "theta3": 37.28,
+  "loo_dev": 0.27,
+  "spatial_autocorrelation_avg": 0.958769,
+  "sha256": "f4af8dd8dc1cfed55cd683bf4dd38f16ded990b82d7693c836638ca73f27bbb7"
+}

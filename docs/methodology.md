@@ -1,4 +1,3 @@
-[methodology.md](https://github.com/user-attachments/files/27509548/methodology.md)
 # Methodology
 
 **Measurement and Compression Pipeline for the Kodak PCD0992 Directional Perturbation Series**

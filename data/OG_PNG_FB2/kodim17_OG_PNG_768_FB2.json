@@ -1,0 +1,28 @@
+{
+  "source_file": "kodim17_OG_PNG_768_FB2.jpg",
+  "format": "JPEG",
+  "resolution": "512x768",
+  "pixels": 393216,
+  "file_size_bytes": 110551,
+  "bpp": 2.249,
+  "correlations": {
+    "R_G": 0.985923,
+    "R_B": 0.9369,
+    "G_B": 0.9788,
+    "avg_abs_r": 0.9672
+  },
+  "PC1_pct": 97.89,
+  "PC2_pct": 2.04,
+  "PC3_pct": 0.07,
+  "eigenvalues": {
+    "PC1": 6860.2958,
+    "PC2": 142.9801,
+    "PC3": 4.9436
+  },
+  "condition_number": 1387.7,
+  "theta2": 36.2,
+  "theta3": 34.34,
+  "loo_dev": 0.37,
+  "spatial_autocorrelation_avg": 0.970988,
+  "sha256": "cef5f0b99f8f499d09a29bbd2b88a233789291b5c27af179d5fb31d15134a45c"
+}

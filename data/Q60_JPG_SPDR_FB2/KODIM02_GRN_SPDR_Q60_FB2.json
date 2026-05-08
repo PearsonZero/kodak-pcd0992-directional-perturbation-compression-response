@@ -1,0 +1,28 @@
+{
+  "source_file": "KODIM02_GRN_SPDR_Q60_FB2.jpg",
+  "format": "JPEG",
+  "resolution": "2048x1366",
+  "pixels": 2797568,
+  "file_size_bytes": 524515,
+  "bpp": 1.5,
+  "correlations": {
+    "R_G": 0.012006,
+    "R_B": 0.983342,
+    "G_B": -0.12968,
+    "avg_abs_r": 0.375
+  },
+  "PC1_pct": 74.34,
+  "PC2_pct": 25.43,
+  "PC3_pct": 0.23,
+  "eigenvalues": {
+    "PC1": 1415.3114,
+    "PC2": 484.1742,
+    "PC3": 4.3801
+  },
+  "condition_number": 323.12,
+  "theta2": 54.54,
+  "theta3": 42.02,
+  "loo_dev": -10.37,
+  "spatial_autocorrelation_avg": 0.983714,
+  "sha256": "bcef3d963956061ab95a9446c2880a521b8164c4756e133b37698a11ee011974"
+}

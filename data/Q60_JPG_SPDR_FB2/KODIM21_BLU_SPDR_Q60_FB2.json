@@ -1,0 +1,28 @@
+{
+  "source_file": "KODIM21_BLU_SPDR_Q60_FB2.jpg",
+  "format": "JPEG",
+  "resolution": "2048x1366",
+  "pixels": 2797568,
+  "file_size_bytes": 123968,
+  "bpp": 0.355,
+  "correlations": {
+    "R_G": 0.957489,
+    "R_B": 0.015065,
+    "G_B": 0.003481,
+    "avg_abs_r": 0.3253
+  },
+  "PC1_pct": 89.39,
+  "PC2_pct": 8.68,
+  "PC3_pct": 1.93,
+  "eigenvalues": {
+    "PC1": 2040.8039,
+    "PC2": 198.2447,
+    "PC3": 44.0911
+  },
+  "condition_number": 46.29,
+  "theta2": 36.08,
+  "theta3": 6.62,
+  "loo_dev": -27.23,
+  "spatial_autocorrelation_avg": 0.979083,
+  "sha256": "080d51709ae14f8172fa2480003e10c288fdbb80895c0b3483061f12f01909e3"
+}

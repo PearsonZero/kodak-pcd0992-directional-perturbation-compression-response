@@ -1,0 +1,28 @@
+{
+  "source_file": "KODIM16_RED_SPDR_Q75_FB2.jpg",
+  "format": "JPEG",
+  "resolution": "2048x1366",
+  "pixels": 2797568,
+  "file_size_bytes": 414194,
+  "bpp": 1.184,
+  "correlations": {
+    "R_G": -0.195217,
+    "R_B": 0.006804,
+    "G_B": 0.946545,
+    "avg_abs_r": 0.3829
+  },
+  "PC1_pct": 88.36,
+  "PC2_pct": 10.42,
+  "PC3_pct": 1.22,
+  "eigenvalues": {
+    "PC1": 2919.044,
+    "PC2": 344.2491,
+    "PC3": 40.3937
+  },
+  "condition_number": 72.26,
+  "theta2": 86.91,
+  "theta3": 88.94,
+  "loo_dev": 4.05,
+  "spatial_autocorrelation_avg": 0.992086,
+  "sha256": "c4e3348084f8a15725366e77e91da63791cf4d3398d0e5a16acec9cb8097e765"
+}

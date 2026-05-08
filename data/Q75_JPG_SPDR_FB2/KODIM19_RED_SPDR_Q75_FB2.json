@@ -1,0 +1,28 @@
+{
+  "source_file": "KODIM19_RED_SPDR_Q75_FB2.jpg",
+  "format": "JPEG",
+  "resolution": "1366x2048",
+  "pixels": 2797568,
+  "file_size_bytes": 483035,
+  "bpp": 1.381,
+  "correlations": {
+    "R_G": 0.078847,
+    "R_B": 0.015398,
+    "G_B": 0.915658,
+    "avg_abs_r": 0.3366
+  },
+  "PC1_pct": 92.39,
+  "PC2_pct": 4.43,
+  "PC3_pct": 3.18,
+  "eigenvalues": {
+    "PC1": 3574.3918,
+    "PC2": 171.3168,
+    "PC3": 122.9017
+  },
+  "condition_number": 29.08,
+  "theta2": 20.04,
+  "theta3": 34.71,
+  "loo_dev": 16.96,
+  "spatial_autocorrelation_avg": 0.984013,
+  "sha256": "da5106b1bc768cdd17e5c78796eed26fe713742202d17321932cda3322a9856b"
+}

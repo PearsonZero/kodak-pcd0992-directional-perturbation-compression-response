@@ -1,0 +1,28 @@
+{
+  "source_file": "kodim02_Q60.jpg",
+  "format": "JPEG",
+  "resolution": "768x512",
+  "pixels": 393216,
+  "file_size_bytes": 49948,
+  "bpp": 1.016,
+  "correlations": {
+    "R_G": 0.520802,
+    "R_B": 0.409291,
+    "G_B": 0.971085,
+    "avg_abs_r": 0.6337
+  },
+  "PC1_pct": 73.2,
+  "PC2_pct": 26.24,
+  "PC3_pct": 0.56,
+  "eigenvalues": {
+    "PC1": 1221.486,
+    "PC2": 437.8737,
+    "PC3": 9.3683
+  },
+  "condition_number": 130.38,
+  "theta2": 66.66,
+  "theta3": 64.46,
+  "loo_dev": -0.09,
+  "spatial_autocorrelation_avg": 0.916252,
+  "sha256": "0f41be7b9cbf0f7f4b134fcbad7ed619f3a0acda685fd7849f97836baf2aa7ef"
+}

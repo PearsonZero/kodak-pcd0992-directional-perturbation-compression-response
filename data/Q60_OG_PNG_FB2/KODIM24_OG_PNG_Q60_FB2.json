@@ -1,0 +1,28 @@
+{
+  "source_file": "KODIM24_OG_PNG_Q60_FB2.jpg",
+  "format": "JPEG",
+  "resolution": "768x512",
+  "pixels": 393216,
+  "file_size_bytes": 71956,
+  "bpp": 1.464,
+  "correlations": {
+    "R_G": 0.976942,
+    "R_B": 0.94222,
+    "G_B": 0.965474,
+    "avg_abs_r": 0.9615
+  },
+  "PC1_pct": 97.46,
+  "PC2_pct": 1.93,
+  "PC3_pct": 0.61,
+  "eigenvalues": {
+    "PC1": 8238.7243,
+    "PC2": 162.8939,
+    "PC3": 51.4996
+  },
+  "condition_number": 159.98,
+  "theta2": 31.03,
+  "theta3": 29.12,
+  "loo_dev": 0.34,
+  "spatial_autocorrelation_avg": 0.934123,
+  "sha256": "b2a4fe2fb44c96d149a6e829f5804905517e8c7343d6c78145bdb19da0c3d6a0"
+}

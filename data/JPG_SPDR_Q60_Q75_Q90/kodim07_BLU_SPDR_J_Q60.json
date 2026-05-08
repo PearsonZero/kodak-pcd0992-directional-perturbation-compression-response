@@ -1,0 +1,28 @@
+{
+  "source_file": "kodim07_BLU_SPDR_J_Q60.jpg",
+  "format": "JPEG",
+  "resolution": "2560x1707",
+  "pixels": 4369920,
+  "file_size_bytes": 380871,
+  "bpp": 0.697,
+  "correlations": {
+    "R_G": 0.964775,
+    "R_B": -0.092603,
+    "G_B": 0.048502,
+    "avg_abs_r": 0.3686
+  },
+  "PC1_pct": 96.18,
+  "PC2_pct": 2.95,
+  "PC3_pct": 0.88,
+  "eigenvalues": {
+    "PC1": 4776.0514,
+    "PC2": 146.3517,
+    "PC3": 43.462
+  },
+  "condition_number": 109.89,
+  "theta2": 57.07,
+  "theta3": 45.54,
+  "loo_dev": -9.39,
+  "spatial_autocorrelation_avg": 0.985085,
+  "sha256": "c4c56029570448d79d19ecf816f61ab9f0fd961e4d58cb7a931435997f1a408e"
+}

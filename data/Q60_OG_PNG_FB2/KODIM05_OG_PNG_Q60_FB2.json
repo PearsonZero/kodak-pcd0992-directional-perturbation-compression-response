@@ -1,0 +1,28 @@
+{
+  "source_file": "KODIM05_OG_PNG_Q60_FB2.jpg",
+  "format": "JPEG",
+  "resolution": "768x512",
+  "pixels": 393216,
+  "file_size_bytes": 90978,
+  "bpp": 1.851,
+  "correlations": {
+    "R_G": 0.897948,
+    "R_B": 0.824227,
+    "G_B": 0.903062,
+    "avg_abs_r": 0.8751
+  },
+  "PC1_pct": 91.92,
+  "PC2_pct": 5.53,
+  "PC3_pct": 2.54,
+  "eigenvalues": {
+    "PC1": 6466.5806,
+    "PC2": 389.1382,
+    "PC3": 178.9613
+  },
+  "condition_number": 36.13,
+  "theta2": 47.0,
+  "theta3": 45.05,
+  "loo_dev": 0.23,
+  "spatial_autocorrelation_avg": 0.894617,
+  "sha256": "6d1eecffd9e7ee8e61e31532d792ed022a7127fc109d8c042b08da1f5b9d9568"
+}

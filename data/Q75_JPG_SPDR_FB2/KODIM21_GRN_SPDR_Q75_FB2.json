@@ -1,0 +1,28 @@
+{
+  "source_file": "KODIM21_GRN_SPDR_Q75_FB2.jpg",
+  "format": "JPEG",
+  "resolution": "2048x1366",
+  "pixels": 2797568,
+  "file_size_bytes": 563529,
+  "bpp": 1.611,
+  "correlations": {
+    "R_G": 0.130302,
+    "R_B": 0.919726,
+    "G_B": 0.178931,
+    "avg_abs_r": 0.4097
+  },
+  "PC1_pct": 70.9,
+  "PC2_pct": 26.35,
+  "PC3_pct": 2.75,
+  "eigenvalues": {
+    "PC1": 3900.4604,
+    "PC2": 1449.3142,
+    "PC3": 151.4326
+  },
+  "condition_number": 25.76,
+  "theta2": 55.44,
+  "theta3": 50.17,
+  "loo_dev": -3.12,
+  "spatial_autocorrelation_avg": 0.992843,
+  "sha256": "77aba6b36ef84568d8f3e45c60999114952f522af86953b78d5605d0f78fefd9"
+}

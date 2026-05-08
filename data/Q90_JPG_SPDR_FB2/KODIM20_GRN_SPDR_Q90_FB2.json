@@ -1,0 +1,28 @@
+{
+  "source_file": "KODIM20_GRN_SPDR_Q90_FB2.jpg",
+  "format": "JPEG",
+  "resolution": "2048x1366",
+  "pixels": 2797568,
+  "file_size_bytes": 460311,
+  "bpp": 1.316,
+  "correlations": {
+    "R_G": 0.252818,
+    "R_B": 0.988935,
+    "G_B": 0.248957,
+    "avg_abs_r": 0.4969
+  },
+  "PC1_pct": 88.15,
+  "PC2_pct": 11.37,
+  "PC3_pct": 0.48,
+  "eigenvalues": {
+    "PC1": 17252.3906,
+    "PC2": 2225.1019,
+    "PC3": 94.8711
+  },
+  "condition_number": 181.85,
+  "theta2": 55.11,
+  "theta3": 51.48,
+  "loo_dev": -1.48,
+  "spatial_autocorrelation_avg": 0.995203,
+  "sha256": "4ca074f252e9b6e82d2127dfc2a9b74f8048ba7e7f7c4d0694e7265d89d49fb8"
+}

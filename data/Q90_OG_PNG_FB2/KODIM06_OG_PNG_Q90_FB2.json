@@ -1,0 +1,28 @@
+{
+  "source_file": "KODIM06_OG_PNG_Q90_FB2.jpg",
+  "format": "JPEG",
+  "resolution": "768x512",
+  "pixels": 393216,
+  "file_size_bytes": 144703,
+  "bpp": 2.944,
+  "correlations": {
+    "R_G": 0.977177,
+    "R_B": 0.95975,
+    "G_B": 0.990619,
+    "avg_abs_r": 0.9758
+  },
+  "PC1_pct": 98.4,
+  "PC2_pct": 1.41,
+  "PC3_pct": 0.19,
+  "eigenvalues": {
+    "PC1": 10125.4169,
+    "PC2": 144.7145,
+    "PC3": 19.4606
+  },
+  "condition_number": 520.3,
+  "theta2": 60.78,
+  "theta3": 58.38,
+  "loo_dev": -0.27,
+  "spatial_autocorrelation_avg": 0.950824,
+  "sha256": "faf53d1e75eabd6d2efd3a0f1d134bf4834c7f38af66144436326a3ef9b371c5"
+}

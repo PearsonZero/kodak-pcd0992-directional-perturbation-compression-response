@@ -1,0 +1,28 @@
+{
+  "source_file": "kodim23_RED_SPDR_J.jpg",
+  "format": "JPEG",
+  "resolution": "2560x1707",
+  "pixels": 4369920,
+  "file_size_bytes": 2698865,
+  "bpp": 4.941,
+  "correlations": {
+    "R_G": -0.039773,
+    "R_B": -0.216412,
+    "G_B": 0.906061,
+    "avg_abs_r": 0.3874
+  },
+  "PC1_pct": 74.67,
+  "PC2_pct": 22.54,
+  "PC3_pct": 2.79,
+  "eigenvalues": {
+    "PC1": 5295.6978,
+    "PC2": 1598.7685,
+    "PC3": 197.7811
+  },
+  "condition_number": 26.78,
+  "theta2": 66.9,
+  "theta3": 56.58,
+  "loo_dev": -8.22,
+  "spatial_autocorrelation_avg": 0.995949,
+  "sha256": "1fa4067f9277fd82277a6402c465c87353478c116f338dbbf0ff4be976dcbb55"
+}

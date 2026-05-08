@@ -1,0 +1,28 @@
+{
+  "source_file": "kodim21_ABC_JPG_SPDR_FB2.jpg",
+  "format": "JPEG",
+  "resolution": "2048x1366",
+  "pixels": 2797568,
+  "file_size_bytes": 498588,
+  "bpp": 1.426,
+  "correlations": {
+    "R_G": 0.893293,
+    "R_B": 0.658649,
+    "G_B": 0.914185,
+    "avg_abs_r": 0.822
+  },
+  "PC1_pct": 88.49,
+  "PC2_pct": 11.21,
+  "PC3_pct": 0.3,
+  "eigenvalues": {
+    "PC1": 5241.2508,
+    "PC2": 663.8509,
+    "PC3": 17.8079
+  },
+  "condition_number": 294.32,
+  "theta2": 39.93,
+  "theta3": 38.05,
+  "loo_dev": 0.33,
+  "spatial_autocorrelation_avg": 0.990415,
+  "sha256": "24cb5ac83c5b2c69154a5fd01a2d6a6cfd384b8a9c2473cd1fb973303733ece7"
+}

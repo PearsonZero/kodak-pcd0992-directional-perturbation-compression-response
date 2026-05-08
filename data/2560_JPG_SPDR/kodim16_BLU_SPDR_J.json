@@ -1,0 +1,28 @@
+{
+  "source_file": "kodim16_BLU_SPDR_J.jpg",
+  "format": "JPEG",
+  "resolution": "2560x1707",
+  "pixels": 4369920,
+  "file_size_bytes": 1819153,
+  "bpp": 3.33,
+  "correlations": {
+    "R_G": 0.984742,
+    "R_B": -0.149178,
+    "G_B": -0.127594,
+    "avg_abs_r": 0.4205
+  },
+  "PC1_pct": 69.51,
+  "PC2_pct": 29.97,
+  "PC3_pct": 0.52,
+  "eigenvalues": {
+    "PC1": 5235.0973,
+    "PC2": 2256.9175,
+    "PC3": 38.9976
+  },
+  "condition_number": 134.24,
+  "theta2": 45.94,
+  "theta3": 9.28,
+  "loo_dev": -34.47,
+  "spatial_autocorrelation_avg": 0.997725,
+  "sha256": "b91fe5bbf304878af83d10406a79e2deb418926253dbd6e9e877ea3c0ede3494"
+}

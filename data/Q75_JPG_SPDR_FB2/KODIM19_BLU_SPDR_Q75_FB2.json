@@ -1,0 +1,28 @@
+{
+  "source_file": "KODIM19_BLU_SPDR_Q75_FB2.jpg",
+  "format": "JPEG",
+  "resolution": "1366x2048",
+  "pixels": 2797568,
+  "file_size_bytes": 530801,
+  "bpp": 1.518,
+  "correlations": {
+    "R_G": 0.981528,
+    "R_B": -0.057705,
+    "G_B": -0.127587,
+    "avg_abs_r": 0.3889
+  },
+  "PC1_pct": 67.27,
+  "PC2_pct": 32.2,
+  "PC3_pct": 0.54,
+  "eigenvalues": {
+    "PC1": 8654.8034,
+    "PC2": 4142.4352,
+    "PC3": 69.1096
+  },
+  "condition_number": 125.23,
+  "theta2": 42.93,
+  "theta3": 5.99,
+  "loo_dev": -34.74,
+  "spatial_autocorrelation_avg": 0.992331,
+  "sha256": "51e73774de07d18aa5de05dc5a8aa6d017de6b4f2bff43ebf0a8e8d257429afb"
+}

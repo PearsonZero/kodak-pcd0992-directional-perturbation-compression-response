@@ -1,0 +1,28 @@
+{
+  "source_file": "kodim14_GRN_SPDR_J_Q60.jpg",
+  "format": "JPEG",
+  "resolution": "2560x1707",
+  "pixels": 4369920,
+  "file_size_bytes": 444092,
+  "bpp": 0.813,
+  "correlations": {
+    "R_G": -0.033181,
+    "R_B": 0.950069,
+    "G_B": -0.02334,
+    "avg_abs_r": 0.3355
+  },
+  "PC1_pct": 62.64,
+  "PC2_pct": 36.52,
+  "PC3_pct": 0.84,
+  "eigenvalues": {
+    "PC1": 2130.148,
+    "PC2": 1241.9238,
+    "PC3": 28.5047
+  },
+  "condition_number": 74.73,
+  "theta2": 77.69,
+  "theta3": 57.44,
+  "loo_dev": -18.19,
+  "spatial_autocorrelation_avg": 0.990281,
+  "sha256": "75431cc0b91d45c2fcc08b546ed1d6a9a70f3e23aec3dd172013f45a75132c44"
+}

@@ -1,0 +1,28 @@
+{
+  "source_file": "kodim09_Q75.jpg",
+  "format": "JPEG",
+  "resolution": "512x768",
+  "pixels": 393216,
+  "file_size_bytes": 54966,
+  "bpp": 1.118,
+  "correlations": {
+    "R_G": 0.949112,
+    "R_B": 0.734853,
+    "G_B": 0.855784,
+    "avg_abs_r": 0.8466
+  },
+  "PC1_pct": 90.85,
+  "PC2_pct": 8.16,
+  "PC3_pct": 0.98,
+  "eigenvalues": {
+    "PC1": 3932.1601,
+    "PC2": 353.3507,
+    "PC3": 42.5874
+  },
+  "condition_number": 92.33,
+  "theta2": 32.31,
+  "theta3": 29.59,
+  "loo_dev": -0.48,
+  "spatial_autocorrelation_avg": 0.953673,
+  "sha256": "95d5c265e578220cb99cfa40f9e9f32cffd3f0246d5e40c7bffab6f8df99151b"
+}

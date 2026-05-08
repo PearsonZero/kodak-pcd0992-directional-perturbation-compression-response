@@ -1,0 +1,28 @@
+{
+  "source_file": "kodim06_BLU_SPDR_J_Q90.jpg",
+  "format": "JPEG",
+  "resolution": "2560x1707",
+  "pixels": 4369920,
+  "file_size_bytes": 1132812,
+  "bpp": 2.074,
+  "correlations": {
+    "R_G": 0.960671,
+    "R_B": -0.145391,
+    "G_B": -0.28716,
+    "avg_abs_r": 0.4644
+  },
+  "PC1_pct": 65.89,
+  "PC2_pct": 33.23,
+  "PC3_pct": 0.88,
+  "eigenvalues": {
+    "PC1": 9177.6321,
+    "PC2": 4628.3041,
+    "PC3": 122.0564
+  },
+  "condition_number": 75.19,
+  "theta2": 52.46,
+  "theta3": 11.21,
+  "loo_dev": -39.09,
+  "spatial_autocorrelation_avg": 0.994823,
+  "sha256": "99a281bf5d0b6bf463ee9359e4561f025d2a98676e2d20718b28fb1516b37167"
+}

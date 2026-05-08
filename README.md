@@ -18,7 +18,7 @@ The Kodak images occupy highly structured, image-specific covariance geometries 
 
 The perturbation operates in standard RGB pixel space upstream of any colorspace conversion. All 72 resulting images are standard files (JPEG, TIFF, or PNG) readable by any existing decoder without modification.
 
-For each of the 24 Kodak images, three independent perturbations were applied targeting the red, green, and blue channel axes respectively. All 72 perturbed versions were measured through Facebook's JPEG recompression pipeline alongside unmodified originals. A control condition using the same pipeline without covariance perturbation did not produce comparable BPP reduction. Resolution change and format conversion alone did not reproduce the observed compression response.
+For each of the 24 Kodak images, three independent perturbations were applied targeting the red, green, and blue channel axes, respectively. All 72 perturbed versions were measured through Facebook's JPEG recompression pipeline alongside unmodified originals. A control condition using the same pipeline without covariance perturbation did not produce comparable BPP reduction. Resolution change and format conversion alone did not reproduce the observed compression response.
 
 ---
 
@@ -41,9 +41,9 @@ The geometric displacement persists through repeated lossy encoding, retaining 8
 ## File Structure
 
 ```
-/
+
 ├── README.md
-├── paper4_manuscript_final.pdf
+├── directional-perturbation-manuscript.pdf
 ├── profiles/
 │   └── kodim01–kodim24_compression_profile.pdf (24 files, 3 pages each)
 ├── data/

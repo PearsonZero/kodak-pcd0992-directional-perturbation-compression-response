@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20148312.svg)](https://doi.org/10.5281/zenodo.20148312)
 # Directional Perturbation of Image Covariance Geometry
 
 **Compression Response Across the Kodak Lossless True Color Suite**
